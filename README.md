@@ -6,6 +6,6 @@
 
 let _Tech = "React";
 let _Tools = ["Git","MUI","SCSS","Jotai","Redux"];
-const _howToWriteCode = "KISS";
+
 
 ```
